@@ -1,6 +1,6 @@
 # Jonathan Bissu Open Avenues Final Project 2023
 
-# Streaming and Staking Smart Contract
+## Streaming and Staking Smart Contract
 
 ## Introduction
 
